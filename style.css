@@ -1,0 +1,41 @@
+body {
+	margin: 10px;
+
+}
+
+div#caixadebusca {
+	background: black;
+	float: right;
+
+}
+
+div#principal {
+	float:left;
+}
+
+div#segundomenu {
+	margin: 0 auto;
+
+}
+
+
+div#imagem {
+	text-align: center;
+}
+
+div#video1 {
+	
+	margin: 10px 10px;
+	padding: 10px 10px;
+	float: left;
+
+}
+
+div#imagemdiv2 {
+	margin-left: 100px;
+	float: left;
+	margin-top: 
+}
+
+
+
